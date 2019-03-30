@@ -1,3 +1,4 @@
+// program to obtain integer and decimal part of a number
 #include<stdio.h>
 void main()
 {float d;
