@@ -1,3 +1,4 @@
+//program to replace a substring with given string
 #include<stdio.h>
 #include<string.h>
 void main()
