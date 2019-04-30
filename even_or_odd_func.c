@@ -20,13 +20,13 @@ void main()
    { scanf("%d",&arr[i]);
    }
   x=even(arr[1]);
-  if(x==1}
+  if(x==1)
   { 
-   printf("%d is Even",arr[1]");
+   printf("%d is Even",arr[1]);
   }  
   else
   {
-   printf("%d is Odd",arr[1]");
+   printf("%d is Odd",arr[1]);
   }
 }
 
