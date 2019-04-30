@@ -12,7 +12,7 @@ int even (int a)
   }
 void main()
 {
-  int arr[10],i,n;
+  int arr[10],i,x,n;
   printf("Enter the number of elements " );
   scanf("%d",&n);
   printf("Enter the elements : ");
